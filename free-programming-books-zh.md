@@ -190,7 +190,7 @@
 * [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
 * [鸟哥的 Linux 私房菜 基础学习篇](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 * [鸟哥的 Linux 私房菜 服务器架设篇](http://vbird.dic.ksu.edu.tw/linux_server/)
-
+* [OSX EI Capitan论坛](http://bbs.pcbeta.com/forum-554-1.html)
 
 ### 数据库
 
